@@ -15,9 +15,9 @@ This project forecasts energy consumption using machine learning. The primary go
 ## Dataset
 The dataset used contains energy consumption records along with various features that can influence consumption. The dataset requires cleaning and preprocessing before modeling.
 
-Source: Finland's transmission system operator
-Number of Features: 5 variables
-Number of Samples: 52965 observations
+- Source: Finland's transmission system operator
+- Number of Features: 5 variables
+- Number of Samples: 52965 observations
 
 ## Preprocessing
 Steps involved in preprocessing:
